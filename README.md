@@ -30,3 +30,5 @@ Airflow is easiest to run in a separate Docker Compose environment. Copy or moun
 
 ## Important
 The workflow's staging step runs the container as a smoke test; it is not a public production deployment. Replace it with a real staging service if your instructor requires one.
+
+CI pipeline test.
